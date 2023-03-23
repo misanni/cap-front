@@ -1,9 +1,9 @@
 const devConfig = {
-  baseURL: 'http://localhost:5000',
+  baseURL: 'https://cap-back-zmlw.onrender.com',
 }
 
-const prodConfig = {
-  baseURL: 'Your production url',
-}
+// const prodConfig = {
+//   baseURL: 'Your production url',
+// }
 
 export const config = devConfig
